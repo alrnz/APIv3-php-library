@@ -1,6 +1,6 @@
 {
-    "name": "sendinblue/api-v3-sdk",
-    "description": "Official SendinBlue provided RESTFul API V3 php library",
+    "name": "alrnz/sendinblue-api-v3-sdk",
+    "description": "SendinBlue provided RESTFul API V3 php library without Guzzle-Version",
     "keywords": [
         "sendinblue",
         "swagger",
