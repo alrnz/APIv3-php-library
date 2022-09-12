@@ -28,6 +28,9 @@
         "squizlabs/php_codesniffer": "~2.6",
         "friendsofphp/php-cs-fixer": "~1.12"
     },
+    "replace": {
+        "sendinblue/api-v3-sdk":"8.3.*"
+    },
     "autoload": {
         "psr-4": { "SendinBlue\\Client\\" : "lib/" }
     },
